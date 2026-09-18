@@ -92,8 +92,8 @@ taxi-booking-system/
 ### Steps to Run
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/taxi-booking-system.git
-   cd taxi-booking-system
+   git clone https://github.com/mdirfan089/Quick-Ride.git
+   cd Quick-Ride
    ```
 2. **Set up the database**:
    - Create a **MySQL database** and import `database.sql`.
